@@ -1,0 +1,6 @@
+{
+  "name": "TH Furnishers Pakistan",
+  "description": "Luxury furniture and interior design brand in Faisalabad, Pakistan. Featuring custom down-feather sofas, bespoke bed sets, architectural dining, and hand-crafted furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
